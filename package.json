@@ -14,7 +14,15 @@
   "author": "Wendy Gonzales Salcedo",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wendy-gs/npm-ramdon-msg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wendy-gs/npm-ramdon-msg/issues"
+  },
+  "homepage": "https://github.com/wendy-gs/npm-ramdon-msg#readme"
 }
